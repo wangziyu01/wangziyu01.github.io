@@ -418,7 +418,7 @@ NexT.utils.loadComments(document.querySelector('#valine-comments'), () => {
     });
     new Valine({
       el         : '#valine-comments',
-      verify     : false,
+      verify     : true,
       notify     : false,
       appId      : 'E0MtNrygvPFQG1OKIAgUJVnx-MdYXbMMI',
       appKey     : 'OSzyiAzHrdiwFZ5HfCFTGVow',
@@ -426,8 +426,8 @@ NexT.utils.loadComments(document.querySelector('#valine-comments'), () => {
       avatar     : 'mm',
       meta       : guest,
       pageSize   : '10' || 10,
-      visitor    : true,
-      lang       : '' || 'zh-cn',
+      visitor    : false,
+      lang       : 'zh-cn' || 'zh-cn',
       path       : location.pathname,
       recordIP   : true,
       serverURLs : ''
