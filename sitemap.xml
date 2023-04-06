@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://wangziyu01.github.io/404.html</loc>
+    <loc>https://wangziyu01.github.io/2023/04/05/RMYC2023%E5%BC%80%E6%BA%90%E7%A8%8B%E5%BA%8F%E8%AE%A1%E5%88%92/</loc>
     
     <lastmod>2023-04-06</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>https://wangziyu01.github.io/2023/04/05/RMYC2023%E5%BC%80%E6%BA%90%E7%A8%8B%E5%BA%8F%E8%AE%A1%E5%88%92/</loc>
+    <loc>https://wangziyu01.github.io/404.html</loc>
     
     <lastmod>2023-04-06</lastmod>
     
@@ -74,12 +74,19 @@
 
   
   <url>
-    <loc>https://wangziyu01.github.io/tags/RM/</loc>
+    <loc>https://wangziyu01.github.io/tags/RMYC2023-Program/</loc>
     <lastmod>2023-04-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
 
+  
+  <url>
+    <loc>https://wangziyu01.github.io/categories/RMYC/</loc>
+    <lastmod>2023-04-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
 </urlset>
